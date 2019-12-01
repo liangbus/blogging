@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# 个人博客 Blogging
+> _书到用时方恨少_
 
-You can use the [editor on GitHub](https://github.com/liangbus/my-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 分类目录
 
-### Markdown
+- ### HTML 篇
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> * [script 标签的 async 和 defer ](https://github.com/liangbus/blogging/issues/12)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- ### CSS 篇
 
-1. Numbered
-2. List
+> * [用纯属 CSS 实现吸顶效果](https://github.com/liangbus/blogging/issues/3)
+> [你能列出几种水平垂直居中的方法？](https://github.com/liangbus/blogging/issues/8)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- ### JavaScript 篇
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liangbus/my-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> * [通过 setTimeout 模拟实现 setInterval](https://github.com/liangbus/blogging/issues/2)
+> * [关于 JS 的继承](https://github.com/liangbus/blogging/issues/4)
+> * [JS 的拆箱与装箱](https://github.com/liangbus/blogging/issues/5)
+> * [函数相关事例学习](https://github.com/liangbus/blogging/issues/6)
+> * [关于 Array.sort](https://github.com/liangbus/blogging/issues/7)
+> * [Promise 相关知识学习](https://github.com/liangbus/blogging/issues/9)
+> * [关于 Set 和 Map](https://github.com/liangbus/blogging/issues/10)
+> * [关于深拷贝](https://github.com/liangbus/blogging/issues/11)
+> * [浮点数问题，0.1+0.2 === 0.3?](https://github.com/liangbus/blogging/issues/13)
+> * [关于遍历相关的方法，你知道多少？](https://github.com/liangbus/blogging/issues/14)
