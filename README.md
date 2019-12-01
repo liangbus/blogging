@@ -13,7 +13,7 @@
 - ### CSS 篇
 
 > * [用纯属 CSS 实现吸顶效果](https://github.com/liangbus/blogging/issues/3)
-> [你能列出几种水平垂直居中的方法？](https://github.com/liangbus/blogging/issues/8)
+> * [你能列出几种水平垂直居中的方法？](https://github.com/liangbus/blogging/issues/8)
 
 
 
