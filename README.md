@@ -32,6 +32,7 @@
    * [浮点数问题，0.1+0.2 === 0.3?](https://github.com/liangbus/blogging/issues/13)
    * [关于遍历相关的方法，你知道多少？](https://github.com/liangbus/blogging/issues/14)
    * [CommonJS，AMD 和 ES6 模块化的差异](https://github.com/liangbus/blogging/issues/17)
+   * [关于 async/await 的执行时机](https://github.com/liangbus/blogging/issues/20)
 
 - ### 网络篇
 
@@ -40,3 +41,6 @@
 - ### 正则
   * [如何使用正则替换图片 URL 上的尺寸规格？](https://github.com/liangbus/blogging/issues/16)
   
+- ### 其他
+  * [从零开始搭建 webpack + React + TypeScript 环境](https://github.com/liangbus/blogging/issues/19)
+  * 
