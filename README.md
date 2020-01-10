@@ -21,8 +21,6 @@
 
 - ### JavaScript 篇
 
-   * [通过 setTimeout 模拟实现 setInterval](https://github.com/liangbus/blogging/issues/2)
-   * [关于 JS 的继承](https://github.com/liangbus/blogging/issues/4)
    * [JS 的拆箱与装箱](https://github.com/liangbus/blogging/issues/5)
    * [函数相关事例学习](https://github.com/liangbus/blogging/issues/6)
    * [关于 Array.sort](https://github.com/liangbus/blogging/issues/7)
@@ -33,14 +31,20 @@
    * [关于遍历相关的方法，你知道多少？](https://github.com/liangbus/blogging/issues/14)
    * [CommonJS，AMD 和 ES6 模块化的差异](https://github.com/liangbus/blogging/issues/17)
    * [关于 async/await 的执行时机](https://github.com/liangbus/blogging/issues/20)
+   * [通过 setTimeout 模拟实现 setInterval](https://github.com/liangbus/blogging/issues/2)
+   * [关于 JS 的继承](https://github.com/liangbus/blogging/issues/4)
+   * [JavaScript 中 this 详解](https://github.com/liangbus/blogging/issues/22)
+  
 
 - ### 网络篇
 
 - ### 算法相关
+  * [[leetcode]最长回文子串 —— 中心扩展算法](https://github.com/liangbus/blogging/issues/24)
+  * [通过代码实现展示冒泡算法的动画](https://github.com/liangbus/blogging/issues/23)
 
 - ### 正则
   * [如何使用正则替换图片 URL 上的尺寸规格？](https://github.com/liangbus/blogging/issues/16)
   
 - ### 其他
   * [从零开始搭建 webpack + React + TypeScript 环境](https://github.com/liangbus/blogging/issues/19)
-  * 
+  * [【收藏】前端学习资源](https://github.com/liangbus/blogging/issues/1)
