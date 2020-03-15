@@ -41,6 +41,8 @@
 - ### 算法相关
   * [[leetcode]最长回文子串 —— 中心扩展算法](https://github.com/liangbus/blogging/issues/24)
   * [通过代码实现展示冒泡算法的动画](https://github.com/liangbus/blogging/issues/23)
+  * [[leetcode]爬楼梯 —— 斐波那契序列](https://github.com/liangbus/blogging/issues/25)
+  * [多种方式实现数组扁平化](https://github.com/liangbus/blogging/issues/26)
 
 - ### 正则
   * [如何使用正则替换图片 URL 上的尺寸规格？](https://github.com/liangbus/blogging/issues/16)
