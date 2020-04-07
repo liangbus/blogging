@@ -17,6 +17,7 @@
 
    * [用纯属 CSS 实现吸顶效果](https://github.com/liangbus/blogging/issues/3)
    * [你能列出几种水平垂直居中的方法？](https://github.com/liangbus/blogging/issues/8)
+   * [如何将网页整体设置为黑白？](https://github.com/liangbus/blogging/issues/36)
 
 
 
@@ -58,4 +59,5 @@
   
 - ### 其他
   * [从零开始搭建 webpack + React + TypeScript 环境](https://github.com/liangbus/blogging/issues/19)
+  * [简单了解 webpack 打包原理](https://github.com/liangbus/blogging/issues/36)
   * [【收藏】前端学习资源](https://github.com/liangbus/blogging/issues/1)
