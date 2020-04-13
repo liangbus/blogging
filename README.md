@@ -39,6 +39,7 @@
    * [数组去重的方法，有哪些？](https://github.com/liangbus/blogging/issues/29)
    * [多种方式实现数组扁平化](https://github.com/liangbus/blogging/issues/26)
    * [一道题很“基础”的前端笔试题](https://github.com/liangbus/blogging/issues/30)
+   * [一道闭包相关面试题](https://github.com/liangbus/blogging/issues/37)
    * [关于前端异常监控](https://github.com/liangbus/blogging/issues/21)
    * [如何监控页面是否卡顿](https://github.com/liangbus/blogging/issues/34)
   
@@ -53,6 +54,7 @@
   * [[leetcode]No.6 Z 字形变换](https://github.com/liangbus/blogging/issues/31)
   * [[leetcode]No.876 链表的中间结点](https://github.com/liangbus/blogging/issues/32)
   * [[leetcode]No.300 最长上升子序列（动态规划）](https://github.com/liangbus/blogging/issues/33)
+  * [[算法]棋盘攻击问题](https://github.com/liangbus/blogging/issues/38)
 
 - ### 正则
   * [如何使用正则替换图片 URL 上的尺寸规格？](https://github.com/liangbus/blogging/issues/16)
