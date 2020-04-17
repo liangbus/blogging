@@ -12,13 +12,11 @@
   * [CSS加载 /JS执行会阻塞页面加载吗？](https://github.com/liangbus/blogging/issues/27)
 
 
-
 - ### CSS 篇
 
    * [用纯属 CSS 实现吸顶效果](https://github.com/liangbus/blogging/issues/3)
    * [你能列出几种水平垂直居中的方法？](https://github.com/liangbus/blogging/issues/8)
    * [如何将网页整体设置为黑白？](https://github.com/liangbus/blogging/issues/36)
-
 
 
 - ### JavaScript 篇
@@ -42,6 +40,7 @@
    * [一道闭包相关面试题](https://github.com/liangbus/blogging/issues/37)
    * [关于前端异常监控](https://github.com/liangbus/blogging/issues/21)
    * [如何监控页面是否卡顿](https://github.com/liangbus/blogging/issues/34)
+   * [能否手写一个发布/订阅模式？](https://github.com/liangbus/blogging/issues/41)
   
 
 - ### 网络篇
@@ -55,6 +54,8 @@
   * [[leetcode]No.876 链表的中间结点](https://github.com/liangbus/blogging/issues/32)
   * [[leetcode]No.300 最长上升子序列（动态规划）](https://github.com/liangbus/blogging/issues/33)
   * [[算法]棋盘攻击问题](https://github.com/liangbus/blogging/issues/38)
+  * [[leetcode]No. 445 两数相加 II](https://github.com/liangbus/blogging/issues/39)
+  * [[leetcode]No. 56 合并区间](https://github.com/liangbus/blogging/issues/42)
 
 - ### 正则
   * [如何使用正则替换图片 URL 上的尺寸规格？](https://github.com/liangbus/blogging/issues/16)
@@ -62,4 +63,5 @@
 - ### 其他
   * [从零开始搭建 webpack + React + TypeScript 环境](https://github.com/liangbus/blogging/issues/19)
   * [简单了解 webpack 打包原理](https://github.com/liangbus/blogging/issues/36)
+  * [代码相关面试题合集](https://github.com/liangbus/blogging/issues/40)
   * [【收藏】前端学习资源](https://github.com/liangbus/blogging/issues/1)
