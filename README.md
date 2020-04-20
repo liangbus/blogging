@@ -56,6 +56,9 @@
   * [[算法]棋盘攻击问题](https://github.com/liangbus/blogging/issues/38)
   * [[leetcode]No. 445 两数相加 II](https://github.com/liangbus/blogging/issues/39)
   * [[leetcode]No. 56 合并区间](https://github.com/liangbus/blogging/issues/42)
+  * [[leetcode]No. 11 盛水最多的容器](https://github.com/liangbus/blogging/issues/43)
+  * [[leetcode]No.42 接雨水](https://github.com/liangbus/blogging/issues/44)
+  * [实现 convert 方法，把原始 list 数组转换成树形结构](https://github.com/liangbus/blogging/issues/45)
 
 - ### 正则
   * [如何使用正则替换图片 URL 上的尺寸规格？](https://github.com/liangbus/blogging/issues/16)
