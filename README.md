@@ -17,6 +17,7 @@
    * [用纯属 CSS 实现吸顶效果](https://github.com/liangbus/blogging/issues/3)
    * [你能列出几种水平垂直居中的方法？](https://github.com/liangbus/blogging/issues/8)
    * [如何将网页整体设置为黑白？](https://github.com/liangbus/blogging/issues/36)
+   * [纯 CSS 实现文本溢出省略效果](https://github.com/liangbus/blogging/issues/49)
 
 
 - ### JavaScript 篇
@@ -59,6 +60,8 @@
   * [[leetcode]No. 11 盛水最多的容器](https://github.com/liangbus/blogging/issues/43)
   * [[leetcode]No.42 接雨水](https://github.com/liangbus/blogging/issues/44)
   * [实现 convert 方法，把原始 list 数组转换成树形结构](https://github.com/liangbus/blogging/issues/45)
+  * [[leetcode] 树形结构算法练习](https://github.com/liangbus/blogging/issues/48)
+  * [[leetcode]No. 1248 统计「优美子数组」](https://github.com/liangbus/blogging/issues/46)
 
 - ### 正则
   * [如何使用正则替换图片 URL 上的尺寸规格？](https://github.com/liangbus/blogging/issues/16)
