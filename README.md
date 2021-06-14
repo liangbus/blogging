@@ -16,7 +16,7 @@
 
    * [用纯属 CSS 实现吸顶效果](https://github.com/liangbus/blogging/issues/3)
    * [你能列出几种水平垂直居中的方法？](https://github.com/liangbus/blogging/issues/8)
-   * [如何将网页整体设置为黑白？](https://github.com/liangbus/blogging/issues/36)
+   * [如何将网页整体设置为黑白？](https://github.com/liangbus/blogging/issues/35)
    * [纯 CSS 实现文本溢出省略效果](https://github.com/liangbus/blogging/issues/49)
 
 
