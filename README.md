@@ -45,6 +45,7 @@
   
 
 - ### 网络篇
+  * [前端页面回退，GET 请求并没有真正发起？](https://github.com/liangbus/blogging/issues/54)
 
 - ### 算法相关
   * [[leetcode]最长回文子串 —— 中心扩展算法](https://github.com/liangbus/blogging/issues/24)
