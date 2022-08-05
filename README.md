@@ -66,6 +66,7 @@
 
 - ### 正则
   * [如何使用正则替换图片 URL 上的尺寸规格？](https://github.com/liangbus/blogging/issues/16)
+  * [通过正则实现后台文本可配置化（简易版）](https://github.com/liangbus/blogging/issues/54)
   
 - ### 其他
   * [从零开始搭建 webpack + React + TypeScript 环境](https://github.com/liangbus/blogging/issues/19)
